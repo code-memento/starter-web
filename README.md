@@ -9,3 +9,5 @@ Sample website with plenty of files for demos
 # Section 1
 
 # Section 2
+
+# Section 3

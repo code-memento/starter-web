@@ -23,4 +23,4 @@ Sample website with plenty of files for demos
 Hi students, more changes from myfeature branches too
 
 
-new stuff in master
+new stuff in master. All rights reserved

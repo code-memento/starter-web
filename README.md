@@ -18,9 +18,9 @@ Sample website with plenty of files for demos
 
 ###### Section 6
 
-2020 Zakari
+2020 Zakaria
 
-a
+Hi students
 
 
 new stuff in master
